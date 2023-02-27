@@ -1497,7 +1497,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     }
 
     .skills__skill {
-        padding: 1rem 2rem;
         margin-bottom: 1.5rem;
         margin-right: 1.5rem;
         font-size: 1rem;
